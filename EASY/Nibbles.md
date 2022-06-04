@@ -26,7 +26,7 @@
 <br>
 
 ## 001 : T1594 : Reconnaissance / Search Victim-Owned Websites <a id="001"></a>
-### Access target server
+### Access to the target server
 
 *Hello world!*
 
