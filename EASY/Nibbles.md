@@ -1,4 +1,4 @@
-# Write-up - Nibbles
+# Write Up - Nibbles
 
 ## Basic Information
 ### URL
