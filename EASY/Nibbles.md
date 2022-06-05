@@ -253,12 +253,6 @@ This shell script can be modified*
 *Modify monitor.sh for privilege escalation \
 It aims to spawn bash of root user*
 
-<img src=./img/Nibbles/32_monitorsh.png width=600px>
-
-<br>
-
-*Pour a script into monitor.sh*
-
 <img src=./img/Nibbles/34_bash.png width=700px>
 
 <br>
