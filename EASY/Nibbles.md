@@ -4,6 +4,8 @@
 ### URL
 > https://app.hackthebox.com/machines/Nibbles
 
+<img src=./img/Nibbles/Nibbles.png width=500px>
+
 <br>
 
 ## Attack Flow
@@ -90,6 +92,15 @@ Note: This website has feature of access block using IP address* :(
 *Searchsploit*
 
 <img src=./img/Nibbles/9_searchsploit.png width=1200px>
+
+<br>
+
+
+*Version is 4.0.3 \
+from /nibbleblog/README*
+
+<img src=./img/Nibbles/9a_readme.png width=500px>
+
 
 <br>
 
