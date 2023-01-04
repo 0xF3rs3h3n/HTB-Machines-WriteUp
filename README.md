@@ -1,4 +1,4 @@
 # WriteUp
 
 ## Caution
-Please do not abuse these technics. These are only for education on Hack The Box.
+Do not abuse these techniques. These are for educational purposes only for the capture the flag.
